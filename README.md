@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=2077)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=ayu_mirage)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxzLV&theme=2077&exclude=EJS,html)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxzLV&theme=ayu_mirage&exclude=EJS,html)
 
 </div>
