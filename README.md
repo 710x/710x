@@ -30,6 +30,6 @@
 
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxzLV&theme=2077&exclude=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxzLV&theme=2077&exclude=ejs)
 
 </div>
