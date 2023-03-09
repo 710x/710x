@@ -28,6 +28,6 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=gruvbox)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=2077)
 
 </div>
