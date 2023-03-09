@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm mxz</h1>
-<h3 align="center">A young boy from Vietnam</h3>
+<h1 align="center" style="color:#ff6961">Hi 👋, I'm mxz</h1>
+<h3 align="center" style="color:#ff6961">A young boy from Vietnam</h3>
 
--   🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
+-   <span style="color:#ff6961">🔭 I’m currently studying at </span>[Hanoi University of Industry](https://www.haui.edu.vn/en) <span style="color:#ff6961">in</span> [Software Engineering](https://fit.haui.edu.vn/en)
+-   <span style="color:#ff6961">👯 Our organization</span> [Z](https://github.com/Z-orgs)
 
--   👯 Our organization [Z](https://github.com/Z-orgs)
+-   <span style="color:#ff6961">📫 How to reach me</span> **syhanhcbq@gmail.com**
 
--   📫 How to reach me **syhanhcbq@gmail.com**
+-   <span style="color:#ff6961">😁 If you see that the project is not in a public archive, it means my project is still under development.</span>
 
--   😁 If you see that the project is not in a public archive, it means my project is still under development.
-
--   💔 **My CSharp and Java repositories are just for fun, don't talk about it**
+-   <span style="color:#ff6961">💔 **My CSharp and Java repositories are just for fun, don't talk about it**</span>
 
 <div align="center">
 
-## 💻 My skills:
+## <span style="color:#ff6961">💻 My skills:</span>
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,express,git,md,nestjs,nodejs,postman,mysql,mongodb,graphql,docker)
 
-## 📊 GitHub Stats:
+## <span style="color:#ff6961">📊 GitHub Stats:</span>
 
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=2077)
 
