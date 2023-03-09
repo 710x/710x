@@ -13,11 +13,11 @@
 
 <div align="center">
 
-# 💻 My skills:
+## 💻 My skills:
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,express,git,md,nestjs,nodejs,postman,mysql,mongodb,graphql,docker)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=2077)
 
