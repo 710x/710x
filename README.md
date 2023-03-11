@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mxz</h1>
+<h1 align="center">Hi 👋, I'm A$PIRE mxz</h1>
 <h3 align="center">A young boy from Vietnam</h3>
 
 -   🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzLV&theme=ayu_mirage)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxzxm&theme=ayu_mirage)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxzLV&theme=ayu_mirage&exclude=EJS,html)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxzxm&theme=ayu_mirage&exclude=EJS,html)
 
 </div>
