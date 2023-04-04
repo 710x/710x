@@ -15,7 +15,7 @@
 
 ## 💻 My skills:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,express,git,md,nestjs,nodejs,postman,mysql,mongodb,graphql,docker)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vscode,express,git,md,nestjs,nodejs,postman,mysql,mongodb,graphql,docker)
 
 ## 📊 GitHub Stats:
 
