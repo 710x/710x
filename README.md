@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
 
--   👯 Our organization [Z](https://github.com/Z-orgs)
+-   👯 Our organization [DAINN](https://github.com/Z-orgs)
 
 -   📫 How to reach me **syhanhcbq@gmail.com**
 
