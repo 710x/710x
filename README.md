@@ -7,8 +7,6 @@
 
 -   📫 How to reach me **syhanhcbq@gmail.com**
 
--   😁 If you see that the project is not in a public archive, it means my project is still under development.
-
 -   💔 **My CSharp and Java repositories are just for fun, don't talk about it**
 
 <div align="center">
