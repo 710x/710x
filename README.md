@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwzng&theme=ayu_mirage)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kwzng&theme=ayu_mirage)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwzng&theme=ayu_mirage&exclude=EJS,html)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kwzng&theme=ayu_mirage&exclude=EJS,html)
 
 </div>
