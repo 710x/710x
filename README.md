@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
 
--   👯 Our organization [DAINN](https://github.com/Z-orgs)
+-   👯 Our organization [Z](https://github.com/Z-orgs)
 
 -   📫 How to reach me **syhanhcbq@gmail.com**
 
@@ -13,7 +13,7 @@
 
 ## 💻 My skills:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,vscode,express,git,md,nestjs,nodejs,postman,mysql,mongodb,graphql,docker)
+![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,ts,nest,mysql,mongodb,graphql,docker,vscode,git,md,postman)
 
 ## 📊 GitHub Stats:
 
