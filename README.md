@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
 
--   👍 My homeboi [Yuno](https://github.com/imdev2002)
+-   👍 My homie [Yuno](https://github.com/imdev2002), [BLUE](https://github.com/blvehv)
 
 -   👯 Our organization [Z](https://github.com/Z-orgs)
 
