@@ -3,10 +3,6 @@
 
 -   🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
 
--   👍 My homies [Yuno](https://github.com/imdev2002), [BLUE](https://github.com/blvehv)
-
--   👯 Our organization [Z](https://github.com/Z-orgs)
-
 -   📫 How to reach me **syhanhcbq@gmail.com**
 
 -   💔 **My CSharp and Java repositories are just for fun, don't talk about it**
