@@ -19,6 +19,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kwzng&theme=ayu_mirage&exclude=EJS,html)
 
-![Vietnam Flag](https://i.imgur.com/pslJoHb.png)
-
 </div>
