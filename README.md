@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kwzng</h1>
+<h1 align="center">Hi 👋, I'm 710</h1>
 <h3 align="center">Vuong Sy Hanh</h3>
 
 -   🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
@@ -15,8 +15,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kwzng&theme=ayu_mirage)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=710x&theme=ayu_mirage)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kwzng&theme=ayu_mirage&exclude=EJS,html)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=710x&theme=ayu_mirage&exclude=EJS,html)
 
 </div>
