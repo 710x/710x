@@ -13,7 +13,7 @@
 
 ## 💻 My skills:
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase)
+![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma)
 
 ## 📊 GitHub Stats:
 
