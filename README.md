@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
 
-- 💔 **I hate Java, C#**
+- 💔 **Java, C#, C, C++**
 
 <div align="center">
 
