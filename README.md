@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
 
-- 💔 **My CSharp and Java repositories are just for fun, don't talk about it**
+- 💔 **I hate Java, C#**
 
 <div align="center">
 
