@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
 
-- 💔 **Java, C#, C, C++**
-
 <div align="center">
 
 ## 💻 My skills:
