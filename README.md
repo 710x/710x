@@ -19,6 +19,6 @@
 
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=710x&theme=ayu_mirage)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=710x&theme=ayu_mirage&exclude=EJS,html)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=710x&theme=ayu_mirage)
 
 </div>
