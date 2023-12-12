@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm 710</h1>
 <h3 align="center">Vuong Sy Hanh</h3>
 
+- 💻 I am the manager of the dev team in the [Malolo](https://malolo.io/) project.
+
 - 🪙 I am one of the backend developers of the [xpocket.app](https://xpocket.app) project.
 
 - 🦾 I'm currently a Backend developer at [Hamsa Corporation](https://hamsa.co/)
