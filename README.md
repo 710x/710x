@@ -7,7 +7,7 @@
 
 - 🦾 I'm currently a Backend developer at [Hamsa Corporation](https://hamsa.co/) (09/2023 - Present)
 
-- 🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
+- 🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en) (10/2020 - Present)
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
 
