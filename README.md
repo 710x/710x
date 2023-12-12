@@ -3,7 +3,7 @@
 
 - 💻 I am the manager of the dev team in the [Malolo](https://malolo.io/) project.
 
-- 🪙 I am one of the backend developers of the [xpocket.app](https://xpocket.app) project.
+- 🪙 I am a backend developer at [XPocket.app](https://xpocket.app/).
 
 - 🦾 I'm currently a Backend developer at [Hamsa Corporation](https://hamsa.co/)
 
