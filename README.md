@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm 710</h1>
 <h3 align="center">Vuong Sy Hanh</h3>
 
-- 💻 I am the manager of the dev team in the [Malolo](https://malolo.io/) project (12/2023 - Present)
+- 🪙 I am a backend developer at [XPocket.app](https://xpocket.app/)
 
-- 🪙 I am a backend developer at [XPocket.app](https://xpocket.app/) (08/2023 - Present)
+- 🦾 I'm currently a Backend developer at [Hamsa Corporation](https://hamsa.co/)
 
-- 🦾 I'm currently a Backend developer at [Hamsa Corporation](https://hamsa.co/) (09/2023 - Present)
-
-- 🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en) (10/2020 - Present)
+- 🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
 
