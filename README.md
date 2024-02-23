@@ -3,8 +3,6 @@
 
 - 🪙 I am a backend developer at [XPocket.app](https://xpocket.app/)
 
-- 🦾 I'm currently a Backend developer at [Hamsa Corporation](https://hamsa.co/)
-
 - 🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
