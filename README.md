@@ -11,7 +11,7 @@
 
 ## 💻 My skills:
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,java,python,cs,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis)
+![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,java,python,opencv,cs,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis)
 
 ## 📊 GitHub Stats:
 
