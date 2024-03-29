@@ -7,16 +7,10 @@
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
 
+![](https://pixel-profile.vercel.app/api/github-stats?username=710x)
+
 <div align="center">
 
-## 💻 My skills:
-
 ![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,java,python,opencv,cs,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis)
-
-## 📊 GitHub Stats:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=710x&theme=ayu_mirage&exclude=EJS)
-
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=710x&theme=ayu_mirage)
 
 </div>
