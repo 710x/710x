@@ -7,10 +7,8 @@
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
 
-![](https://pixel-profile.vercel.app/api/github-stats?username=710x)
-
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,java,python,opencv,cs,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis)
+![710x](https://skillicons.dev/icons?i=nodejs,js,ts,java,python,opencv,cs,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis)
 
 </div>
