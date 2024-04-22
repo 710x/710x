@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 710 (x170)</h1>
+<h1 align="center">Hi 👋, I'm 710 a.k.a x170</h1>
 <h3 align="center">Hanh Vuong Sy</h3>
 
 - 🪙 I am a backend developer at [XPocket.app](https://xpocket.app/)
