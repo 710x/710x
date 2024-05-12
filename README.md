@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm 710 a.k.a x170</h1>
 <h3 align="center">Hanh Vuong Sy</h3>
 
+![image](https://github.com/710x/710x/assets/60683892/7acf8558-bf37-46fc-8c56-eb8ca26ecccf)
+
 - 🪙 I am a backend developer at [XPocket.app](https://xpocket.app/)
 
 - 🔭 I’m currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en) in [Software Engineering](https://fit.haui.edu.vn/en)
