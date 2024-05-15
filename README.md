@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 710 a.k.a x170</h1>
 <h3 align="center">Hanh Vuong Sy</h3>
 
-![image](https://github.com/710x/710x/assets/60683892/7acf8558-bf37-46fc-8c56-eb8ca26ecccf)
+![image](https://github.com/710x/710x/assets/60683892/029b4cee-5228-40c5-89d8-dfcb9a2bcb79)
 
 - 🪙 I am a backend developer at [XPocket.app](https://twitter.com/Xpocket_app)
 
